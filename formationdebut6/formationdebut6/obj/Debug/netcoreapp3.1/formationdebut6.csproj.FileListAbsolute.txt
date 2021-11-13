@@ -1,0 +1,14 @@
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\bin\Debug\netcoreapp3.1\formationdebut6.exe
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\bin\Debug\netcoreapp3.1\formationdebut6.deps.json
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\bin\Debug\netcoreapp3.1\formationdebut6.runtimeconfig.json
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\bin\Debug\netcoreapp3.1\formationdebut6.runtimeconfig.dev.json
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\bin\Debug\netcoreapp3.1\formationdebut6.dll
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\bin\Debug\netcoreapp3.1\formationdebut6.pdb
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.csproj.AssemblyReference.cache
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.AssemblyInfoInputs.cache
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.AssemblyInfo.cs
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.csproj.CoreCompileInputs.cache
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.dll
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.pdb
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut6\formationdebut6\obj\Debug\netcoreapp3.1\formationdebut6.genruntimeconfig.cache
