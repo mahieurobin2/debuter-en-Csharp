@@ -1,0 +1,14 @@
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\bin\Debug\netcoreapp3.1\formationdebut36.exe
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\bin\Debug\netcoreapp3.1\formationdebut36.deps.json
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\bin\Debug\netcoreapp3.1\formationdebut36.runtimeconfig.json
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\bin\Debug\netcoreapp3.1\formationdebut36.runtimeconfig.dev.json
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\bin\Debug\netcoreapp3.1\formationdebut36.dll
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\bin\Debug\netcoreapp3.1\formationdebut36.pdb
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.csproj.AssemblyReference.cache
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.AssemblyInfoInputs.cache
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.AssemblyInfo.cs
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.csproj.CoreCompileInputs.cache
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.dll
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.pdb
+C:\Users\108745706\Desktop\formation C# debutant\projets\formationdebut36\formationdebut36\obj\Debug\netcoreapp3.1\formationdebut36.genruntimeconfig.cache
